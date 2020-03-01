@@ -1,2 +1,10 @@
 # thedanishdynamo.github.io
-Senior Consultant Global
+Global Senior Consultants 
+
+## Projects
+
+| Name | Technologies | Domain |
+| :---: | :---: | :---: |
+| DeepDiff | TBD | Utility |
+
+
