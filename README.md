@@ -1,5 +1,5 @@
 # Global Senior Consultants 
-Global Senior Consultants 
+Worldwide experienced software development professionals
 
 ## Projects
 
