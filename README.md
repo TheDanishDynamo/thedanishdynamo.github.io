@@ -4,7 +4,7 @@ Global Senior Consultants
 ## Projects
 
 | Name | Technologies | Platforms | Domain | Repository |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | xdiff | Multiple | Multiple | Utility | [xdiff](https://github.com/TheDanishDynamo/xdiff) |
 
 ## Blog
