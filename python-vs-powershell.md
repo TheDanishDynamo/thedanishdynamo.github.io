@@ -8,6 +8,6 @@ An opinionated comparison and integration guide as of March 2020. While certain 
 | 2. Operation System Platforms | Cross Platform | Cross Platform | |  
 | 3. Utilization | Analytics, Web, DevOps | DevOps |
 | 4. Package Manager | pip | OneGet, PackageManager | [pip](https://pip.pypa.io/en/stable/) [OneGet](https://github.com/OneGet/oneget) |
-| 5. Framework | Anaconda | .Net Framwork, .Net Core | |
+| 5. Framework | Anaconda | .Net Framework, .Net Core | |
 
 Comparison guide https://writingcenter.fas.harvard.edu/pages/how-write-comparative-analysis
