@@ -1,6 +1,6 @@
 # Python vs PowerShell
 
-A comparison and integration guide for all of us
+A humorfree comparison and integration guide for all of us
 
 | a | b |
 |:-:|:-:|
