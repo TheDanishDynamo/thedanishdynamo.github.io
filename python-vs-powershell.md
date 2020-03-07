@@ -7,7 +7,7 @@ An opinionated comparison and integration guide as of March 2020. While certain 
 | 1. Overview | Multipurpose object oriented scripting language | Multipurpose object oriented scripting language | [Python](https://en.wikipedia.org/wiki/Python_%28programming_language%29) [PowerShell](https://en.wikipedia.org/wiki/PowerShell) |
 | 2. Operation System Platforms | Cross Platform | Cross Platform | |  
 | 3. Utilization | Analytics, Web, DevOps | DevOps |
-| 4. Package Manager | pip | OneGet, PackageManager | [pip](https://pip.pypa.io/en/stable/)[OneGet](https://github.com/OneGet/oneget) |
+| 4. Package Manager | pip | OneGet, PackageManager | [pip](https://pip.pypa.io/en/stable/) [OneGet](https://github.com/OneGet/oneget) |
 | 5. Framework | Anaconda | .Net | |
 
 Comparison guide https://writingcenter.fas.harvard.edu/pages/how-write-comparative-analysis
