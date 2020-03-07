@@ -1,6 +1,6 @@
 # Python vs PowerShell
 
-A comparison and integration guide as of March 2020
+An opinionated comparison and integration guide as of March 2020. While certain capabilities are possible, only the common or popular capabilities are mentioned.
 
 | Point | Python | PowerShell | References |
 |:-:|:-:|:-:|:-:|
