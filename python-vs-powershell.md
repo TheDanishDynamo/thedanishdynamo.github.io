@@ -2,6 +2,8 @@
 
 A comparison and integration guide
 
-| a | b |
-|:-:|:-:|
-| 1 | 2 |
+| Point | Python | PowerShell |
+|:-:|:-:|:-:|
+| | 1 | 2 |
+
+Comparison guide https://writingcenter.fas.harvard.edu/pages/how-write-comparative-analysis
