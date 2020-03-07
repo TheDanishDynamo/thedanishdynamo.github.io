@@ -9,5 +9,6 @@ An opinionated comparison and integration guide as of March 2020. While certain 
 | 3. Utilization | Analytics, Web, DevOps | DevOps |
 | 4. Package Manager | pip | OneGet, PackageManager | [pip](https://pip.pypa.io/en/stable/) [OneGet](https://github.com/OneGet/oneget) |
 | 5. Framework | Anaconda | .Net Framework, .Net Core | |
+| 6. Hello World Program | "Hello World" | "Hello World" | |
 
 Comparison guide https://writingcenter.fas.harvard.edu/pages/how-write-comparative-analysis
