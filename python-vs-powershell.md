@@ -10,5 +10,6 @@ An opinionated comparison and integration guide as of March 2020. While certain 
 | 4. Package Manager | pip | OneGet, PackageManager | [pip](https://pip.pypa.io/en/stable/) [OneGet](https://github.com/OneGet/oneget) |
 | 5. Framework | Anaconda | .Net Framework, .Net Core | |
 | 6. Hello World Program | "Hello World" | "Hello World" | |
+| 7. Location in stack | Desktop, Backend | Desktop, Backend | |
 
 Comparison guide https://writingcenter.fas.harvard.edu/pages/how-write-comparative-analysis
