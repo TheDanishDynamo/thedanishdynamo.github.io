@@ -11,5 +11,7 @@ An opinionated comparison and integration guide as of March 2020. While certain 
 | 5. Framework | Anaconda | .Net Framework, .Net Core | |
 | 6. Hello World Program | "Hello World" | "Hello World" | |
 | 7. Location in stack | Desktop, Backend | Desktop, Backend | |
+| 8. Popularity | #2 | #17 | [redmonk](https://redmonk.com/) |
+
 
 Comparison guide https://writingcenter.fas.harvard.edu/pages/how-write-comparative-analysis
