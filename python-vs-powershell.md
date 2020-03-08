@@ -16,3 +16,4 @@ An opinionated comparison and integration guide as of March 2020. While certain 
 | 10. Barrier of Entry | Low | Medium | |
 
 Comparison guide [https://writingcenter.fas.harvard.edu/pages/how-write-comparative-analysis](https://writingcenter.fas.harvard.edu/pages/how-write-comparative-analysis)
+  
