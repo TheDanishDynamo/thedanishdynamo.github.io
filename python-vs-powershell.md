@@ -13,6 +13,6 @@ An opinionated comparison and integration guide as of March 2020. While certain 
 | 7. Location in stack | Desktop, Backend | Desktop, Backend | |
 | 8. Popularity | #2 | #17 | [redmonk](https://redmonk.com/) |
 | 9. Language Development | PEP | PowerShell-RFC | [pep](https://www.python.org/dev/peps/) [PowerShell-RFC](https://github.com/PowerShell/PowerShell-RFC) |
-
+| 10. Barrier of Entry | Low | Medium | |
 
 Comparison guide [https://writingcenter.fas.harvard.edu/pages/how-write-comparative-analysis](https://writingcenter.fas.harvard.edu/pages/how-write-comparative-analysis)
